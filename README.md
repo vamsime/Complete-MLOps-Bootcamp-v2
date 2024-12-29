@@ -16,3 +16,5 @@ Thank you for all your support. Happy Learning!!!
 Followed [these](https://dev.to/sfpear/miniconda-in-wsl-3642) instructions to install the miniconda in the wsl setup
 - Activate the environment as: ```conda activate mlops_bootcamp```
 - Deactivate it as: ```conda deactivate```
+
+Followed [these](https://code.adonline.id.au/jupyter-notebook-in-windows-subsystem-for-linux-wsl/) instructions to enable the Jupyter Notebooks in WSL. 
