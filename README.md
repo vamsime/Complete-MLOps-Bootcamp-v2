@@ -21,6 +21,6 @@ Followed [these](https://code.adonline.id.au/jupyter-notebook-in-windows-subsyst
 
 Followed [these](https://stackoverflow.com/questions/75272737/error-invalid-version-0-23ubuntu1-package-distro-info) instructions to address the version issues.
 
-```echo '__pycache__/' >> .gitignore``` will ensure that the annoying cache files are not tracked
-git config --global core.excludesfile '~/.gitignore'
-```echo '.ipynb_checkpoints' >> ~/.gitignore``` will ensure that the ipynb_checkpoints are not tracked
+```echo '__pycache__/' >> .gitignore``` will ensure that the annoying cache files are not tracked<br>
+git config --global core.excludesfile '~/.gitignore'<br>
+```echo '.ipynb_checkpoints' >> ~/.gitignore``` will ensure that the ipynb_checkpoints are not tracked<br>
