@@ -20,3 +20,5 @@ Followed [these](https://dev.to/sfpear/miniconda-in-wsl-3642) instructions to in
 Followed [these](https://code.adonline.id.au/jupyter-notebook-in-windows-subsystem-for-linux-wsl/) instructions to enable the Jupyter Notebooks in WSL.
 
 Followed [these](https://stackoverflow.com/questions/75272737/error-invalid-version-0-23ubuntu1-package-distro-info) instructions to address the version issues.
+
+```echo '__pycache__/' >> .gitignore``` will ensure that the annoying cache files are not tracked
