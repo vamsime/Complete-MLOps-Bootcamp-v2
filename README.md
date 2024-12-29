@@ -11,3 +11,8 @@ Created by the Top Instructor of Manifold AI Learning - Nachiketh Murthy (https:
 For support - support@manifoldailearning.in
 
 Thank you for all your support. Happy Learning!!!
+
+## Environment Setup
+Followed [these](https://dev.to/sfpear/miniconda-in-wsl-3642) instructions to install the miniconda in the wsl setup
+- Activate the environment as: ```conda activate mlops_bootcamp```
+- Deactivate it as: ```conda deactivate```
