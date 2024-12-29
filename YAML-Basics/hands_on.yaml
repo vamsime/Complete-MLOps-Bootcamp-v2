@@ -1,0 +1,38 @@
+# Hey this is a YAML file!
+my_course: "AWS DevOps Profession Certification"
+version: 1.0
+price: 299$
+is_public: true
+release_date: 2024-12-31
+pre_enroll: null
+# list
+category:
+ - AWS
+ - DevOps
+ - AWS Certification
+
+# list
+course_dev: ["Lionel Messi", "Xavi hernandez", "Andres Iniesta"]
+# list of objects
+dev_details:
+ - name: 'Lionel Messi'
+   email: "lionel.messi@yaml.com"
+   role: "Author"
+ - name: "Xavi hernandez"
+   email: "xavi.hernandez@yaml.com"
+   role: "Co-author"
+ - name: "Andres Iniesta"
+   email: "andres.iniesta@yaml.com"
+   role: "Editor"
+ - {name: "Carles Puyol", email: "carles.puyol@yaml.com", role: "Finance"}
+
+# multi-line string
+short_description: >
+ This is a course for 
+ AWS DevOps Professional 
+ Certification
+# multi-line string to retain the line-spacings
+detailed_description: |
+ This course has been created with the collaboration with industry experts. 
+ We hope you like it.
+ Looking forward to seeing you take it up.
